@@ -22,3 +22,5 @@ dependencyResolutionManagement {
 rootProject.name = "metro-playground"
 include(":app")
 include(":common")
+
+includeBuild("../metro")
